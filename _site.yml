@@ -1,0 +1,49 @@
+name: "Solution focused brief therapy"
+navbar:
+  title: "Solution focused brief therapy"
+  type: inverse
+  left:
+    
+    - text: "theory"
+      icon: fa-info
+      menu:
+        - text: "home"
+          href: index.html
+        
+        - text: "test1"
+          href: test1.html
+          
+        - text: "test2"
+          href: test2.html
+          
+        - text: "test3"
+          href: test3.html
+          
+        - text: "test4"
+          href: test4.html  
+        
+        
+    - text: "development"
+      icon: fa-info
+      menu:
+        - text: "test1"
+          href: test5.html
+
+        - text: "test2"
+          href: test6.html
+          
+        - text: "test3"
+          href: test7.html
+          
+    - text: "solution focused brief therapy"
+      icon: fa-info
+      menu:
+        - text: "test1"
+          href: test8.html
+
+        
+    
+    
+  right:
+    - icon: fa-question fa-lg
+      href: https://example.com

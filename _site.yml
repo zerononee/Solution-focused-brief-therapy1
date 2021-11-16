@@ -38,7 +38,7 @@ navbar:
     - text: "solution focused brief therapy"
       icon: fa-info
       menu:
-        - text: "Part3"
+        - text: "Part3.1"
           href: test8.html
 
         

@@ -10,35 +10,35 @@ navbar:
         - text: "home"
           href: index.html
         
-        - text: "test1"
+        - text: "Part1.1"
           href: test1.html
           
-        - text: "test2"
+        - text: "Part1.2"
           href: test2.html
           
-        - text: "test3"
+        - text: "Part1.3"
           href: test3.html
           
-        - text: "test4"
+        - text: "Part1.4"
           href: test4.html  
         
         
     - text: "development"
       icon: fa-info
       menu:
-        - text: "test1"
+        - text: "Part2.1"
           href: test5.html
 
-        - text: "test2"
+        - text: "Part2.2"
           href: test6.html
           
-        - text: "test3"
+        - text: "Part2.3"
           href: test7.html
           
     - text: "solution focused brief therapy"
       icon: fa-info
       menu:
-        - text: "test1"
+        - text: "Part3"
           href: test8.html
 
         
